@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment-french-gothic-tradition-innovation",
+  "title": "The Gutter's Song",
+  "tagline": "In the shadow of the Enlightenment, a scholar of the unseen must silence a melody composed by the dead.",
+  "target_words": 70000,
+  "actual_words": 65889,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Price of Forbidden Knowledge",
+    "Tradition as a Living Weapon",
+    "The Gothic Underbelly of the Enlightenment",
+    "The Resonance of Buried History"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Shattered Bell Jar",
+      "words": 2745
+    },
+    {
+      "ch": 2,
+      "title": "The Midnight Train to Paris",
+      "words": 2745
+    },
+    {
+      "ch": 3,
+      "title": "The Whispering Trees",
+      "words": 2745
+    },
+    {
+      "ch": 4,
+      "title": "The Cryptic Signet",
+      "words": 2745
+    },
+    {
+      "ch": 5,
+      "title": "Élodie's Laboratory",
+      "words": 2745
+    },
+    {
+      "ch": 6,
+      "title": "The Palimpsest of Saint-Médard",
+      "words": 2745
+    },
+    {
+      "ch": 7,
+      "title": "The First Note of the Song",
+      "words": 2745
+    },
+    {
+      "ch": 8,
+      "title": "The Bone Flute",
+      "words": 2745
+    },
+    {
+      "ch": 9,
+      "title": "The Collector of Drowned Men",
+      "words": 2745
+    },
+    {
+      "ch": 10,
+      "title": "A Forgery of Power",
+      "words": 2745
+    },
+    {
+      "ch": 11,
+      "title": "The Seven-Fingered Hand",
+      "words": 2745
+    },
+    {
+      "ch": 12,
+      "title": "The Council of the Unseen",
+      "words": 2745
+    },
+    {
+      "ch": 13,
+      "title": "The Anatomy of a Resonance",
+      "words": 2745
+    },
+    {
+      "ch": 14,
+      "title": "The Ward of Painted Eyes",
+      "words": 2745
+    },
+    {
+      "ch": 15,
+      "title": "The Spring of Clitoris",
+      "words": 2745
+    },
+    {
+      "ch": 16,
+      "title": "The Boy with the Antlered Shadow",
+      "words": 2745
+    },
+    {
+      "ch": 17,
+      "title": "The Lead-Lined Valise",
+      "words": 2745
+    },
+    {
+      "ch": 18,
+      "title": "The Composer Revealed",
+      "words": 2745
+    },
+    {
+      "ch": 19,
+      "title": "The Ritual of Unmaking",
+      "words": 2745
+    },
+    {
+      "ch": 20,
+      "title": "The Beryl Lens",
+      "words": 2745
+    },
+    {
+      "ch": 21,
+      "title": "The Price of Silence",
+      "words": 2745
+    },
+    {
+      "ch": 22,
+      "title": "The Geological House",
+      "words": 2745
+    },
+    {
+      "ch": 23,
+      "title": "A Theoretical Displeasure",
+      "words": 2745
+    },
+    {
+      "ch": 24,
+      "title": "The Constellation of Shards",
+      "words": 2745
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where Valancourt uses his beryl lens to 'read' the history of a seemingly ordinary object in a Parisian café, revealing a forgotten tragedy.",
+      "Create a journal entry from Claudine's perspective, detailing the strange occurrences she manages in the Château and her unspoken theories about her employer.",
+      "Draft a letter from Élodie to a third, unknown ally, explaining her true fears about the 'composition' in the Gutter and a plan she hasn't told Valancourt.",
+      "Describe a new 'artifact' for Valancourt's vault: its origin, its anomalous properties, and the personal cost he paid to acquire it."
+    ],
+    "technical": [
+      "Design a 'Gothic Sensorium' interactive map of Paris, layering the city's rational 18th-century plan with clickable hotspots of occult activity, historical stain, and resonant artifacts from the novel.",
+      "Build a prototype for 'The Beryl Lens' as a digital tool: an image filter or AI prompt that decomposes a modern street view into imagined layers of historical, spiritual, and material resonance."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Ann Radcliffe",
+      "Voltaire",
+      "H.P. Lovecraft",
+      "Umberto Eco"
+    ]
+  },
+  "cover_prompt": "A lone, gaunt scholar in a tattered 18th-century justaucorps kneels desperately in a rain-slicked Parisian alley, his hands pressed over his ears as his eyes widen in horrified revelation at a spectral melody only he can perceive; swirling around him from the cobblestones and grimy gutters are ethereal, phosphorescent musical notations and decaying, whispering faces formed from the mist and refuse, the imposing shadow of a distant Enlightenment-era observatory or library looming at the alley's end under a stormy twilight sky, in the atmospheric style of Zdzisław Beksiński's dystopian surrealism and the detailed gothic etchings of Piranesi, book cover framing, centered and intimate composition with a dramatic low-angle looking up at the scholar's torment, dramatic chiaroscuro lighting with stark contrasts between the deep shadows of the alley and the unnatural bioluminescent glow of the spectral music, using a palette of desaturated umbers, Prussian blues, and sickly, toxic greens with accents of ghostly white and tarnished gold, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
